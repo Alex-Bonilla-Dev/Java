@@ -1,1 +1,1 @@
-"In this repository will have all of java"
+"This repository contains all the material I've covered in Java."
