@@ -8,6 +8,8 @@ package Interfaces;
  *
  * @author alexb
  */
-public class Animal {
+interface ElectronicDevice  {
+    void turnOn(); //Method to turn on the device
+    void turnOff(); //Method to turn off the device
     
 }
